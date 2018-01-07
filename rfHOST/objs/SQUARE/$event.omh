@@ -1,0 +1,6 @@
+On evClick
+	Calculate MyRoot as BASE
+	JavaScript: MySquare=$root.$iremoteobjs.roSQUARE.$square(MyRoot)
+	Calculate RESULT as MySquare
+	JavaScript: console.log('__form.set("RESULT",$root.$iremoteobjs.roSQUARE.$square(__form.get("LOW")))')
+	JavaScript: console.log('remote Object roSQUARE is available via the notation tree - for everyone who wants to use it')

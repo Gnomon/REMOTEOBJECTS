@@ -1,0 +1,74 @@
+{
+	"classtype": "kRemoteForm",
+	"internalversion": 27,
+	"nextident": 1001,
+	"lastgroupident": 0,
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"aligntogrid": false,
+		"alpha": 255,
+		"alwaysenabledobject": "",
+		"animatelayouttransitions": false,
+		"backalpha": 255,
+		"backcolor": "RGB(255,255,255)",
+		"backpattern": 0,
+		"cancelkeyobject": "",
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"contextmenu": "",
+		"createdate": "2017-10-29 00:15:41",
+		"currentlayoutbreakpoint": 1024,
+		"defaultappearance": "kAppearanceiOS",
+		"desc": "a remote object that offers the function $square(pNumber2square)",
+		"designshowmobiletitle": true,
+		"designtaskname": "rtDUMMY",
+		"disabledefaultcontextmenu": false,
+		"editor": "",
+		"editordata": "",
+		"events": "",
+		"external": true,
+		"forecolor": "RGB(255,255,255)",
+		"horzgrid": 8,
+		"horzscroll": false,
+		"inheritedorder": 1,
+		"issupercomponent": false,
+		"layoutbreakpoints": "320,768,1024",
+		"layouttype": "kLayoutTypeResponsive",
+		"left": 376,
+		"moddate": "2018-01-06 23:32:03",
+		"okkeyobject": "",
+		"serverlessclient": false,
+		"showascheckedout": false,
+		"showgrid": false,
+		"sizetogrid": false,
+		"startfield": 0,
+		"title": {
+			"type": 0,
+			"calc": "New remote form"
+		},
+		"top": 114,
+		"userinfo": "",
+		"version": "",
+		"vertgrid": 8,
+		"vertscroll": false
+	},
+	"layout": {
+		"width": 445,
+		"height": 160,
+		"320": {
+			"height": 0
+		},
+		"768": {
+			"height": 0
+		},
+		"1024": {
+			"height": 0
+		}
+	}
+}

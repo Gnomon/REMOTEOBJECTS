@@ -1,0 +1,34 @@
+[
+	{
+		"name": "$event",
+		"ident": 0,
+		"order": 1,
+		"clientexec": true,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "MyBase",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			},
+			{
+				"name": "MyExp",
+				"order": 2,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			},
+			{
+				"name": "MyResult",
+				"order": 3,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			}
+		]
+	}
+]

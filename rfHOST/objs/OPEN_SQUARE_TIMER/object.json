@@ -1,0 +1,61 @@
+{
+	"ident": 1006,
+	"order": 5,
+	"objtype": "kComponent",
+	"componentlib": "jsTimer",
+	"componentctrl": "Timer Control",
+	"properties": {
+		"alpha": 255,
+		"contextmenu": "",
+		"cssclassname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": false,
+		"dropmode": "kAcceptNone",
+		"enabled": true,
+		"events": "evTimer",
+		"fieldstyle": "",
+		"objlink": 0,
+		"preventlayoutanimation": false,
+		"running": true,
+		"timervalue": 100,
+		"tooltip": "",
+		"userinfo": "",
+		"useseconds": false,
+		"visible": false
+	},
+	"layout": {
+		"320": {
+			"left": 223,
+			"top": 32,
+			"width": 80,
+			"height": 25,
+			"dragborder": false,
+			"edgefloat": "kEFnone",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		},
+		"768": {
+			"left": 223,
+			"top": 32,
+			"width": 80,
+			"height": 25,
+			"dragborder": false,
+			"edgefloat": "kEFnone",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		},
+		"1024": {
+			"left": 223,
+			"top": 32,
+			"width": 80,
+			"height": 25,
+			"dragborder": false,
+			"edgefloat": "kEFnone",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		}
+	}
+}

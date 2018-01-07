@@ -1,0 +1,4 @@
+On evTimer
+	;  dynamically loading a remote object
+	Do $cobj.$running.$assign(kFalse)
+	Do $ctask.$openform('roSQUARE')

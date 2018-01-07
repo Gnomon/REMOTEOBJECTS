@@ -1,0 +1,5 @@
+Begin text block
+;  Text: {css/theme-default/bootstrap.css,}
+End text block
+Get text block MyDependencies
+JavaScript: provide_headerfiles(MyDependencies)

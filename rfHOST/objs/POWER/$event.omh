@@ -1,0 +1,7 @@
+On evClick
+	Calculate MyBase as BASE
+	Calculate MyExp as EXP
+	JavaScript: MyResult=__form.roPOWER.$power(MyBase,MyExp)
+	Calculate RESULT as MyResult
+	JavaScript: console.log('__form.roPOWER.$power(3,3)')
+	JavaScript: console.log('remote Object roPower is  is available via the host window - not exposed via $root.$iremoteobjs')

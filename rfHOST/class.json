@@ -1,0 +1,96 @@
+{
+	"classtype": "kRemoteForm",
+	"internalversion": 354,
+	"nextident": 1010,
+	"lastgroupident": 0,
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "BASE",
+			"order": 8,
+			"type": "kNumber",
+			"subtype": "k0dpShortnum",
+			"sublen": 0,
+			"initval": "2"
+		},
+		{
+			"name": "EXP",
+			"order": 9,
+			"type": "kInteger",
+			"subtype": "kShortint",
+			"sublen": 0,
+			"initval": "10"
+		},
+		{
+			"name": "RESULT",
+			"order": 10,
+			"type": "kCharacter",
+			"subtype": "kSimplechar",
+			"sublen": 100000000
+		}
+	],
+	"properties": {
+		"aligntogrid": false,
+		"alpha": 255,
+		"alwaysenabledobject": "",
+		"animatelayouttransitions": false,
+		"backalpha": 255,
+		"backcolor": "RGB(255,255,255)",
+		"backpattern": 0,
+		"cancelkeyobject": "",
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"contextmenu": "",
+		"createdate": "2017-10-27 12:18:58",
+		"currentlayoutbreakpoint": 320,
+		"defaultappearance": "kAppearanceiOS",
+		"desc": "",
+		"designshowmobiletitle": true,
+		"designtaskname": "rtDUMMY",
+		"disabledefaultcontextmenu": false,
+		"editor": "",
+		"editordata": "",
+		"events": "",
+		"external": true,
+		"forecolor": "RGB(255,255,255)",
+		"horzgrid": 8,
+		"horzscroll": false,
+		"inheritedorder": 1,
+		"issupercomponent": false,
+		"layoutbreakpoints": "320,768,1024",
+		"layouttype": "kLayoutTypeResponsive",
+		"left": 496,
+		"moddate": "2018-01-07 00:46:38",
+		"okkeyobject": "",
+		"serverlessclient": false,
+		"showascheckedout": false,
+		"showgrid": false,
+		"sizetogrid": false,
+		"startfield": 0,
+		"title": {
+			"type": 0,
+			"calc": "New remote form"
+		},
+		"top": 899,
+		"userinfo": "",
+		"version": "",
+		"vertgrid": 8,
+		"vertscroll": false
+	},
+	"layout": {
+		"width": 903,
+		"height": 795,
+		"320": {
+			"height": 0
+		},
+		"768": {
+			"height": 0
+		},
+		"1024": {
+			"height": 0
+		}
+	}
+}

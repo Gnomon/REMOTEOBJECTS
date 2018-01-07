@@ -1,0 +1,39 @@
+[
+	{
+		"name": "$init",
+		"ident": 1,
+		"order": 1,
+		"clientexec": true,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$square",
+		"ident": 0,
+		"order": 2,
+		"clientexec": true,
+		"pvardefs": [
+			{
+				"name": "pNumber",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000,
+				"param": 1
+			}
+		],
+		"lvardefs": [
+			{
+				"name": "MySquare",
+				"order": 2,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000
+			}
+		]
+	}
+]

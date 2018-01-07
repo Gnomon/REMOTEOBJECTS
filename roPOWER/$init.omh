@@ -1,0 +1,2 @@
+;  register the methods you want to publish
+JavaScript: __form.$registerMethod('$power')
